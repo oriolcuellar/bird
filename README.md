@@ -1,10 +1,8 @@
 # bird
 flappy bird barato
 
-librerias:
+# Librerias:
   SFML 2
   
-compilar:
-  make
   
   <img src="images/bird.png">
