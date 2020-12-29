@@ -1,7 +1,11 @@
 # bird
 
   flappy bird barato
+  
+# Compilar
 
+  make
+  
 # Librerias:
 
   SFML 2
