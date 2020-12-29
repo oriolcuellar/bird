@@ -5,6 +5,6 @@ flappy bird barato
   SFML 2
   https://www.sfml-dev.org/download.php
   
-#Captura
+# Captura
   
   <img src="images/bird.png">
