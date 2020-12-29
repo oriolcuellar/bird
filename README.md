@@ -3,6 +3,8 @@ flappy bird barato
 
 # Librerias:
   SFML 2
+  zip
+  o
   https://www.sfml-dev.org/download.php
   
 # Captura
