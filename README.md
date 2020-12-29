@@ -1,7 +1,9 @@
 # bird
-flappy bird barato
+
+  flappy bird barato
 
 # Librerias:
+
   SFML 2
   zip
   o
